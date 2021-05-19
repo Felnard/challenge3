@@ -128,26 +128,6 @@ p{
     color:hsl(185, 77%, 21%);
 
   }
-/* 
 
-@media(max-width:700px){
-    
-.back{
-    display:flex;
-    position:absolute;
-    background-color: red;
-    height:100vh;
-} 
-  .back img:first-of-type{
-      position: relative;
-        left:-40%;
-  }
-  .back img:last-of-type{
-    position: relative;
-      right:-40%;
-}
 
-  body{
-      color:green;
-  }
-} */
+  
